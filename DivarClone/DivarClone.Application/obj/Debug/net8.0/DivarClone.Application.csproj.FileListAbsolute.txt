@@ -1,0 +1,11 @@
+D:\Development\C#\web\divarBlazor\DivarClone\DivarClone.Application\bin\Debug\net8.0\DivarClone.Application.deps.json
+D:\Development\C#\web\divarBlazor\DivarClone\DivarClone.Application\bin\Debug\net8.0\DivarClone.Application.dll
+D:\Development\C#\web\divarBlazor\DivarClone\DivarClone.Application\bin\Debug\net8.0\DivarClone.Application.pdb
+D:\Development\C#\web\divarBlazor\DivarClone\DivarClone.Application\obj\Debug\net8.0\DivarClone.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\C#\web\divarBlazor\DivarClone\DivarClone.Application\obj\Debug\net8.0\DivarClone.Application.AssemblyInfoInputs.cache
+D:\Development\C#\web\divarBlazor\DivarClone\DivarClone.Application\obj\Debug\net8.0\DivarClone.Application.AssemblyInfo.cs
+D:\Development\C#\web\divarBlazor\DivarClone\DivarClone.Application\obj\Debug\net8.0\DivarClone.Application.csproj.CoreCompileInputs.cache
+D:\Development\C#\web\divarBlazor\DivarClone\DivarClone.Application\obj\Debug\net8.0\DivarClone.Application.dll
+D:\Development\C#\web\divarBlazor\DivarClone\DivarClone.Application\obj\Debug\net8.0\refint\DivarClone.Application.dll
+D:\Development\C#\web\divarBlazor\DivarClone\DivarClone.Application\obj\Debug\net8.0\DivarClone.Application.pdb
+D:\Development\C#\web\divarBlazor\DivarClone\DivarClone.Application\obj\Debug\net8.0\ref\DivarClone.Application.dll

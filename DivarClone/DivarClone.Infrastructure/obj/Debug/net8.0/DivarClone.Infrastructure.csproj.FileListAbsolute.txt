@@ -1,0 +1,11 @@
+D:\Development\C#\web\divarBlazor\DivarClone\DivarClone.Infrastructure\bin\Debug\net8.0\DivarClone.Infrastructure.deps.json
+D:\Development\C#\web\divarBlazor\DivarClone\DivarClone.Infrastructure\bin\Debug\net8.0\DivarClone.Infrastructure.dll
+D:\Development\C#\web\divarBlazor\DivarClone\DivarClone.Infrastructure\bin\Debug\net8.0\DivarClone.Infrastructure.pdb
+D:\Development\C#\web\divarBlazor\DivarClone\DivarClone.Infrastructure\obj\Debug\net8.0\DivarClone.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\C#\web\divarBlazor\DivarClone\DivarClone.Infrastructure\obj\Debug\net8.0\DivarClone.Infrastructure.AssemblyInfoInputs.cache
+D:\Development\C#\web\divarBlazor\DivarClone\DivarClone.Infrastructure\obj\Debug\net8.0\DivarClone.Infrastructure.AssemblyInfo.cs
+D:\Development\C#\web\divarBlazor\DivarClone\DivarClone.Infrastructure\obj\Debug\net8.0\DivarClone.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Development\C#\web\divarBlazor\DivarClone\DivarClone.Infrastructure\obj\Debug\net8.0\DivarClone.Infrastructure.dll
+D:\Development\C#\web\divarBlazor\DivarClone\DivarClone.Infrastructure\obj\Debug\net8.0\refint\DivarClone.Infrastructure.dll
+D:\Development\C#\web\divarBlazor\DivarClone\DivarClone.Infrastructure\obj\Debug\net8.0\DivarClone.Infrastructure.pdb
+D:\Development\C#\web\divarBlazor\DivarClone\DivarClone.Infrastructure\obj\Debug\net8.0\ref\DivarClone.Infrastructure.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DivarClone.API.props" />
+</Project>

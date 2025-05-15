@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Development\\C#\\web\\divarBlazor\\DivarClone\\DivarClone.Presentation.BlazorWasm\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\Development\\C#\\web\\divarBlazor\\DivarClone\\DivarClone.Presentation.BlazorWasm\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DivarClone.Presentation.BlazorWasm.styles.css",
+      "PackagePath": "staticwebassets\\DivarClone.Presentation.BlazorWasm.styles.css"
+    },
+    {
+      "Id": "D:\\Development\\C#\\web\\divarBlazor\\DivarClone\\DivarClone.Presentation.BlazorWasm\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Development\\C#\\web\\divarBlazor\\DivarClone\\DivarClone.Presentation.BlazorWasm\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Development\\C#\\web\\divarBlazor\\DivarClone\\DivarClone.Presentation.BlazorWasm\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Development\\C#\\web\\divarBlazor\\DivarClone\\DivarClone.Presentation.BlazorWasm\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\Development\\C#\\web\\divarBlazor\\DivarClone\\DivarClone.Presentation.BlazorWasm\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\Development\\C#\\web\\divarBlazor\\DivarClone\\DivarClone.Presentation.BlazorWasm\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "D:\\Development\\C#\\web\\divarBlazor\\DivarClone\\DivarClone.Presentation.BlazorWasm\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Development\\C#\\web\\divarBlazor\\DivarClone\\DivarClone.Presentation.BlazorWasm\\wwwroot\\manifest.webmanifest",
+      "PackagePath": "staticwebassets\\manifest.webmanifest"
+    },
+    {
+      "Id": "D:\\Development\\C#\\web\\divarBlazor\\DivarClone\\DivarClone.Presentation.BlazorWasm\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DivarClone.Presentation.BlazorWasm.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DivarClone.Presentation.BlazorWasm.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DivarClone.Presentation.BlazorWasm.props",
+      "PackagePath": "build\\DivarClone.Presentation.BlazorWasm.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DivarClone.Presentation.BlazorWasm.props",
+      "PackagePath": "buildMultiTargeting\\DivarClone.Presentation.BlazorWasm.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DivarClone.Presentation.BlazorWasm.props",
+      "PackagePath": "buildTransitive\\DivarClone.Presentation.BlazorWasm.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

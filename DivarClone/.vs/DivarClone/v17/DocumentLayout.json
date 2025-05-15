@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Development\\C#\\web\\divarBlazor\\DivarClone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A12D5AB8-B282-448E-8A00-995FC95BD755}|DivarClone.Domain\\DivarClone.Domain.csproj|d:\\development\\c#\\web\\divarblazor\\divarclone\\divarclone.domain\\entities\\advertisement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A12D5AB8-B282-448E-8A00-995FC95BD755}|DivarClone.Domain\\DivarClone.Domain.csproj|solutionrelative:divarclone.domain\\entities\\advertisement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45ED31DF-A97C-4AC3-AA17-09643691EED0}|DivarClone.Infrastructure\\DivarClone.Infrastructure.csproj|d:\\development\\c#\\web\\divarblazor\\divarclone\\divarclone.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45ED31DF-A97C-4AC3-AA17-09643691EED0}|DivarClone.Infrastructure\\DivarClone.Infrastructure.csproj|solutionrelative:divarclone.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC86EF1-BE02-495D-B5BC-6207A6005CE5}|DivarClone.Application\\DivarClone.Application.csproj|d:\\development\\c#\\web\\divarblazor\\divarclone\\divarclone.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC86EF1-BE02-495D-B5BC-6207A6005CE5}|DivarClone.Application\\DivarClone.Application.csproj|solutionrelative:divarclone.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A12D5AB8-B282-448E-8A00-995FC95BD755}|DivarClone.Domain\\DivarClone.Domain.csproj|d:\\development\\c#\\web\\divarblazor\\divarclone\\divarclone.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A12D5AB8-B282-448E-8A00-995FC95BD755}|DivarClone.Domain\\DivarClone.Domain.csproj|solutionrelative:divarclone.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Advertisement.cs",
+              "DocumentMoniker": "D:\\Development\\C#\\web\\divarBlazor\\DivarClone\\DivarClone.Domain\\Entities\\Advertisement.cs",
+              "RelativeDocumentMoniker": "DivarClone.Domain\\Entities\\Advertisement.cs",
+              "ToolTip": "D:\\Development\\C#\\web\\divarBlazor\\DivarClone\\DivarClone.Domain\\Entities\\Advertisement.cs",
+              "RelativeToolTip": "DivarClone.Domain\\Entities\\Advertisement.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:31:42.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Development\\C#\\web\\divarBlazor\\DivarClone\\DivarClone.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "DivarClone.Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\Development\\C#\\web\\divarBlazor\\DivarClone\\DivarClone.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "DivarClone.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:11:48.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Development\\C#\\web\\divarBlazor\\DivarClone\\DivarClone.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "DivarClone.Application\\Class1.cs",
+              "ToolTip": "D:\\Development\\C#\\web\\divarBlazor\\DivarClone\\DivarClone.Application\\Class1.cs",
+              "RelativeToolTip": "DivarClone.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:11:27.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Development\\C#\\web\\divarBlazor\\DivarClone\\DivarClone.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "DivarClone.Domain\\Class1.cs",
+              "ToolTip": "D:\\Development\\C#\\web\\divarBlazor\\DivarClone\\DivarClone.Domain\\Class1.cs",
+              "RelativeToolTip": "DivarClone.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:11:02.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
